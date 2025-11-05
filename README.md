@@ -51,20 +51,21 @@ Mortality Rate = DIVIDE([Total Deaths], [Total Cases], 0)
 ✅ Mortality Rate (%)
 
 📍 Dashboard Pages & Insights
+
 1️⃣ Key Indicators Page 
 
 Provides an executive summary of the global COVID situation using KPI Cards including CFR %
-📸 (Screenshot/Key Matrics Overview.JPG)
+📸 (https://github.com/hiraimran-theanalyst/covid_19_powerbi_dashboard/blob/d59160e0e60bd5c69b4763a835ba0d7ddaeb2773/Screenshot/Key%20Matrics%20Overview.JPG)
 
 2️⃣ Regional Comparison Page
 
 Shows mortality, active cases, and testing correlations by country
-📸 (Screenshot/Regional Comparison.JPG)
+📸 (https://github.com/hiraimran-theanalyst/covid_19_powerbi_dashboard/blob/d59160e0e60bd5c69b4763a835ba0d7ddaeb2773/Screenshot/Regional%20Comparison.JPG)
 
 3️⃣ Trends Over Time Page
 
 Analyzes how cases & deaths evolved during the pandemic history
-📸 (Screenshot/Trend Over Time.JPG)
+📸 (https://github.com/hiraimran-theanalyst/covid_19_powerbi_dashboard/blob/d59160e0e60bd5c69b4763a835ba0d7ddaeb2773/Screenshot/Trend%20Over%20Time.JPG)
 
 ⚙️ Project Architecture
 CSV Data → Power Query → DAX Measures → Report Design → Dashboard Deployment
