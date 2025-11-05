@@ -55,7 +55,7 @@ Mortality Rate = DIVIDE([Total Deaths], [Total Cases], 0)
 1️⃣ Key Indicators Page 
 
 Provides an executive summary of the global COVID situation using KPI Cards including CFR %
-📸 ([Image_URL](https://github.com/hiraimran-theanalyst/covid_19_powerbi_dashboard/blob/d59160e0e60bd5c69b4763a835ba0d7ddaeb2773/Screenshot/Key%20Matrics%20Overview.JPG))
+📸 ![Key Indicators Page](https://github.com/hiraimran-theanalyst/covid_19_powerbi_dashboard/blob/d59160e0e60bd5c69b4763a835ba0d7ddaeb2773/Screenshot/Key%20Matrics%20Overview.JPG?raw=true)
 
 
 2️⃣ Regional Comparison Page
